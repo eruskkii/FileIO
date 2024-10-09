@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         Student[] students = new Student[6];
 
-        students[0] = new Student(2001,"Tobechukwu",)
+        students[0] = new Student(2001,"Tobechukwu","Eze", "13/4/2098", 54, "MALE" );
 
 
     }
